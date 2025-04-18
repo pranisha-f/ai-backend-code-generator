@@ -1,0 +1,12 @@
+docx
+fastapi
+pydantic
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-groq
+dotenv
+langsmith
+uvicorn
